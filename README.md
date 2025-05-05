@@ -6,4 +6,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am neither a coder nor a builder i am a fkin god...
 
-<--dont open this comment you stalker-->
+<!-- dont open this comment you stalker -->
