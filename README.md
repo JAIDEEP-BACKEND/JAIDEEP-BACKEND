@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm Jaideep 💚</h1>
+<h1 align="center">🚀 Hey, I'm Jaideep 🤖</h1>
 <p align="center">
   Building cool stuff where <b>AI, IoT & Robotics</b> collide ⚡
 </p>
